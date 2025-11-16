@@ -1,2 +1,2 @@
 # Object-detection
-Yolo
+Yolo 8
